@@ -19,9 +19,27 @@ strcounter('aaaaaaa') #(a - 7)'''
 
 
 
-def strcounter(s):
+'''def strcounter(s):
     for sym in set(s):
         print(f'{sym} - {s.count(sym)}')
 
-strcounter('aaaaaaa')
+strcounter('aaaaaaa')'''
 
+#homework1
+'''word = input("enter a word: ")
+reverse = word[::-1]
+
+
+def palindrom(word):
+    while True:
+        if word[::1] == reverse:
+            print(word, "True")
+            break
+        if word != reverse:
+            print(word, "False")
+            continue
+
+
+print(palindrom(word))'''
+
+#homework2
