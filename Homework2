@@ -35,6 +35,5 @@
 <img src="https://chudo-prirody.com/uploads/posts/2021-08/1628647490_127-p-udivlennii-kot-foto-133.jpg" alt="альтернативный текст" height="500" width="525"
 >
     </div>
-<p style="font-style: oblique; text-align: center">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-</body>
-</html>
+<p class='p4';style="font-style: oblique; text-align: center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur eaque enim exercitationem expedita ipsa iure officiis optio, provident similique? Ab commodi corporis culpa eligendi eos ex quisquam, sequi temporibus voluptas.</p>
+</body
